@@ -1,0 +1,77 @@
+ 
+ 
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #edabc7;
+}
+#title {
+    background-color: #ed1e78;
+}
+
+h1 {
+    font-family:'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #000000;
+}
+
+h2 {
+    color: #000000;
+    font-family: 'Montserrat';
+    font-size: 1.5;
+    font-weight: bold;
+}
+
+p {
+    color: #ed1e78;
+}
+
+card {
+    
+}
+h5 {
+    font-family: 'Montserrat';
+    font-size: 1.5;
+    color: #000000;
+}
+
+.navbar {
+    background-color: #edabc7;
+    padding: 0 0 15px;
+   
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ed1e78;
+   
+}
+
+.navbar-item {
+    padding: 0 18px;
+   
+}
+
+.navbar-link {
+    font-family: 'Montserrat';
+    font-size: 1.2rem;
+   
+}
+ 
+ 
+ 
+ 
+ 
+ /* Carousel image sizes */
+        #hobbyCarousel .carousel-item img {
+            width: 100%; /* responsive width */
+            height: 500px; /* keep the height fixed height */
+            object-fit: cover; /* don't want the image to be distorted */
+           
+        }
+
+
+        
