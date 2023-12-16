@@ -1,0 +1,39 @@
+th {
+        font-weight:bold;
+        color:deeppink; 
+        background-color: pink;
+        text-align: center;
+        border: 1px solid pink
+        padding; 10px;
+}
+
+.time-column {
+    font-weight: bold;
+    font-size: 18px;
+    color: pink;
+    background-color: palevioletred;
+}
+
+td, h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: deeppink;
+}
+
+
+a:link {
+    color: pink;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+}
+
+a:active {
+    color: pink;
+}
+
+a:hover {
+    color: pink;
+    cursor: pointer;
+}
